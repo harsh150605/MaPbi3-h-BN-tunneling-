@@ -15,7 +15,7 @@ The system simulates photo-generated electron tunneling from MAPbI₃, through h
 
 Files Included
 
--mapbi3-h/bn tunneling.py
+-mapbi3-bn tunneling.py
 - `README.md` – this file
   
 Requirements
