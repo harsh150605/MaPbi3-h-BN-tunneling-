@@ -5,9 +5,8 @@ Quantum tunneling and hydrogen production modeling using MAPbI₃/h-BN/MoS₂ he
 This repository contains a Python-based theoretical model for calculating:
 
 - Quantum tunneling probability through monolayer h-BN barrier
-- Photocurrent generation in MAPbI₃/h-BN/MoS₂ heterostructure
 - Hydrogen production rate under visible light (550 nm)
-- External quantum efficiency (EQE), power efficiency, and current density
+- External quantum efficiency (EQE)
 - Parametric analysis for barrier thickness
   
 Scientific Background
@@ -16,8 +15,7 @@ The system simulates photo-generated electron tunneling from MAPbI₃, through h
 
 Files Included
 
-- `tunneling_h2_model.py` – main Python script for all calculations
-- `tunneling_vs_thickness.png` – parametric analysis plot
+-mapbi3-h/bn tunneling.py
 - `README.md` – this file
   
 Requirements
